@@ -1,5 +1,5 @@
 # mumbai-gtfs
-This repo houses GTFS feeds built for services run by KDMT, TMT, and BEST.
+This repo houses GTFS feeds built for services run by KDMT (Kalyan-Dombivali Metropolitan Transport), TMT (Thane Metropolitan Transport), NMMT (Navi-Mumbai Metropolitan Transport), and BEST (Brihanmumbai Electrical Supply & Transport).
 ### gtfs.zip
 This file stores data in the original format. If a route was sent with (UP) and (DOWN) variants they are not merged with or have direction_ids.
 ### gtfs_compat.zip
